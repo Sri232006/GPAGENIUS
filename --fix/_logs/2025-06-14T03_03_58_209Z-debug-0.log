@@ -1,0 +1,37 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.15.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\srika\Desktop\mini project\mini-project\.npmrc
+5 silly config load:file:C:\Users\srika\.npmrc
+6 silly config load:file:C:\Users\srika\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm run lint
+8 verbose argv "run" "lint" "--cache" "--fix"
+9 verbose logfile logs-max:10 dir:C:\Users\srika\Desktop\mini project\mini-project\--fix\_logs\2025-06-14T03_03_58_209Z-
+10 verbose logfile C:\Users\srika\Desktop\mini project\mini-project\--fix\_logs\2025-06-14T03_03_58_209Z-debug-0.log
+11 silly logfile done cleaning log files
+12 verbose stack Error: Missing script: "lint"
+12 verbose stack
+12 verbose stack Did you mean this?
+12 verbose stack   npm link # Symlink a package folder
+12 verbose stack
+12 verbose stack To see a list of scripts, run:
+12 verbose stack   npm run
+12 verbose stack     at #run (C:\Program Files\nodejs\node_modules\npm\lib\commands\run-script.js:111:13)
+12 verbose stack     at async RunScript.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\run-script.js:40:7)
+12 verbose stack     at async Npm.exec (C:\Program Files\nodejs\node_modules\npm\lib\npm.js:207:9)
+12 verbose stack     at async module.exports (C:\Program Files\nodejs\node_modules\npm\lib\cli\entry.js:74:5)
+13 error Missing script: "lint"
+13 error
+13 error Did you mean this?
+13 error   npm link # Symlink a package folder
+13 error
+13 error To see a list of scripts, run:
+13 error   npm run
+14 verbose cwd C:\Users\srika\Desktop\mini project\mini-project
+15 verbose os Windows_NT 10.0.26100
+16 verbose node v22.15.0
+17 verbose npm  v10.9.2
+18 verbose exit 1
+19 verbose code 1
+20 error A complete log of this run can be found in: C:\Users\srika\Desktop\mini project\mini-project\--fix\_logs\2025-06-14T03_03_58_209Z-debug-0.log
