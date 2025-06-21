@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { auth, db } from './firebase';
 import { doc, getDoc, updateDoc } from 'firebase/firestore';
-import './GpaCalculator.css'; // 🔒 old theme style retained
+import './GpaCalculator.css'; 
 
 const MyCgpaCalculator = () => {
   const [semesters, setSemesters] = useState([]);
@@ -18,7 +18,7 @@ const MyCgpaCalculator = () => {
         const data = docSnap.data();
         const gpaHistory = data.gpaHistory || [];
 
-        const defaultCredits = 20; // Anna University default assumption
+        const defaultCredits = 20; 
 
         const semestersWithCredits = gpaHistory.map((entry) => ({
           gpa: parseFloat(entry.gpa),

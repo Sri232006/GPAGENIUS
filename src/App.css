@@ -72,3 +72,56 @@ textarea, input[type="text"] {
   border: 1px solid #ddd;
   border-radius: 4px;
 }
+
+/* 🔐 FORGOT PASSWORD / LOGIN / SIGNUP STYLING */
+
+.auth-container {
+  background: linear-gradient(to right, #764ba2, #667eea);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-box {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 30px;
+  border-radius: 16px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3);
+  text-align: center;
+  width: 90%;
+  max-width: 400px;
+  color: #fff;
+}
+
+.auth-title {
+  font-size: 24px;
+  margin-bottom: 20px;
+  color: #fff;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.auth-input {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  font-size: 16px;
+  color: #333;
+}
+
+.auth-button {
+  padding: 10px 20px;
+  background-color: #fff;
+  color: #333;
+  border: none;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.auth-button:hover {
+  background-color: #e2e2e2;
+}

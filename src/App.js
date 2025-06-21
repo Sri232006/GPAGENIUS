@@ -4,6 +4,8 @@ import Login from "./Login";
 import ProfilePage from "./ProfilePage";
 import MyCgpaCalculator from "./MyCgpaCalculator";
 import GpaCalculator from "./GpaCalculator";
+import ForgotPassword from "./ForgetPassword";
+import './App.css'; 
 
 function App() {
   return (
@@ -24,7 +26,7 @@ function App() {
             >
               <div
                 style={{
-                  backgroundColor: "rgba(255, 255, 255, 0.1)", // soft transparent box
+                  backgroundColor: "rgba(255, 255, 255, 0.1)",
                   padding: "2rem 3rem",
                   borderRadius: "16px",
                   boxShadow: "0 8px 24px rgba(0, 0, 0, 0.2)",
@@ -82,6 +84,7 @@ function App() {
         <Route path="/profile" element={<ProfilePage />} />
         <Route path="/cgpa" element={<MyCgpaCalculator />} />
         <Route path="/gpa" element={<GpaCalculator />} />
+        <Route path="/forgot-password" element={<ForgotPassword />} />
       </Routes>
     </Router>
   );

@@ -3,6 +3,7 @@ import { signInWithEmailAndPassword } from "firebase/auth";
 import { auth } from "./firebase";
 import { useNavigate, Link } from "react-router-dom";
 
+
 const Login = () => {
   const navigate = useNavigate();
   const [email, setEmail] = useState("");
@@ -63,6 +64,11 @@ const Login = () => {
         <p style={{ marginTop: "1rem", fontSize: "0.9rem" }}>
           Don't have an account? <Link to="/signup" style={{ color: "#fff", textDecoration: "underline" }}>Signup</Link>
         </p>
+        <p style={{ marginTop: "10px"}}>
+          <Link to="/forgot-password" style={{color:"#fff", textDecoration:"underline"}}>
+          Forgot Password?
+          </Link>
+          </p>
       </div>
     </div>
   );

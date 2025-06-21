@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
 } from 'recharts';
 import { doc, getDoc } from 'firebase/firestore';
-import { auth, db } from './firebase'; // Make sure this path is correct in your project
+import { auth, db } from './firebase'; 
 
 const GpaChart = () => {
   const [gpaData, setGpaData] = useState([]);
