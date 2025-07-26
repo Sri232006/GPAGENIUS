@@ -8,7 +8,7 @@ function Home({ user }) {
   const [animate, setAnimate] = useState(false);
 
   useEffect(() => {
-    // Trigger animation after component mounts
+  
     setAnimate(true);
   }, []);
 
@@ -27,7 +27,7 @@ function Home({ user }) {
       alignItems: 'center'
     }}>
       
-      {/* 🌟 GPA Genius Banner */}
+      {/* GPA Genius Banner */}
       <div style={{
         width: '100%',
         padding: '30px 0',
@@ -53,7 +53,7 @@ function Home({ user }) {
         </h1>
       </div>
 
-      {/* 💬 Main Card */}
+      {/*  Main Card */}
       <div style={{
         background: '#fff',
         padding: '40px 30px',
@@ -90,7 +90,6 @@ function Home({ user }) {
   );
 }
 
-// 🎨 Button styles
 const mainButtonStyle = {
   background: '#667eea',
   color: 'white',

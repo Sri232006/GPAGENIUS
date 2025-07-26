@@ -1,42 +1,140 @@
-.calculator-container {
-  background: linear-gradient(to right, #667eea, #764ba2);
-  padding: 30px;
-  border-radius: 20px;
-  max-width: 600px;
-  margin: 30px auto;
-  color: #fff;
-  box-shadow: 0 0 20px rgba(0,0,0,0.3);
-  font-family: 'Segoe UI', sans-serif;
-}
-
-.calculator-title {
-  text-align: center;
-  font-size: 24px;
-  margin-bottom: 20px;
-}
-
-.calculator-input {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-  border-radius: 8px;
-  border: none;
-  font-size: 16px;
-}
-
-.calculator-button {
-  background: #fff;
-  color: #764ba2;
-  margin: 10px;
-  padding: 10px 20px;
+/* GpaCalculator.css */
+.cgpa-container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  max-width: 500px;
+  margin: 20px auto;
   border-radius: 10px;
-  border: none;
-  font-weight: bold;
-  cursor: pointer;
-  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  overflow: hidden;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
 
-.calculator-buttons {
+.cgpa-header {
+  background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
+  color: white;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cgpa-header h1 {
+  margin: 0;
+  font-size: 24px;
+  font-weight: 600;
   text-align: center;
-  margin-top: 20px;
+}
+
+.cgpa-selection {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.cgpa-department-select,
+.cgpa-semester-select {
+  flex: 1;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 5px;
+  background-color: rgba(255,255,255,0.2);
+  color: white;
+  font-weight: 500;
+}
+
+.cgpa-department-select option,
+.cgpa-semester-select option {
+  color: #333;
+  background: white;
+}
+
+.cgpa-load-btn {
+  padding: 8px 15px;
+  background-color: #fff;
+  color: #6e48aa;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.cgpa-load-btn:hover {
+  background-color: #f0f0f0;
+}
+
+.cgpa-courses {
+  background-color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.cgpa-course {
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
+
+.cgpa-course h3 {
+  margin: 0 0 10px 0;
+  font-size: 16px;
+  color: #333;
+}
+
+.cgpa-inputs {
+  display: flex;
+  gap: 10px;
+}
+
+.cgpa-credit-select,
+.cgpa-grade-select {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.cgpa-calculate-btn {
+  margin-top: 15px;
+  padding: 12px;
+  background: linear-gradient(135deg, #6e48aa 0%, #9d50bb 100%);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.cgpa-calculate-btn:hover {
+  opacity: 0.9;
+}
+
+.cgpa-empty {
+  background-color: #fff;
+  padding: 30px 20px;
+  text-align: center;
+  color: #666;
+}
+
+.cgpa-result {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center;
+}
+
+.cgpa-result h3 {
+  margin: 0 0 10px 0;
+  color: #333;
+  font-size: 18px;
+}
+
+.cgpa-result p {
+  margin: 0;
+  font-size: 28px;
+  font-weight: 700;
+  color: #6e48aa;
 }

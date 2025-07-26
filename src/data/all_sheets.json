@@ -1,0 +1,3484 @@
+{
+    "CSE": [
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course": "Physics for Information Science"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "CS3251",
+            "Course": "Programming in C"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "CS3271",
+            "Course": "Programming in C Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "MA3354",
+            "Course": "Discrete Mathematics"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3351",
+            "Course": "Digital Principles and Computer Organization"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3352",
+            "Course": "Foundations of Data Science"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3301",
+            "Course": "Datastructures"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3391",
+            "Course": "Object Oriented Programming"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3311",
+            "Course": "Datastructures Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3381",
+            "Course": "Object Oriented Programming Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "CS3361",
+            "Course": "Data Science Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3452",
+            "Course": "Theory of Computation"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3491",
+            "Course": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3492",
+            "Course": "Database Management Systems"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3401",
+            "Course": "Algorithms"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3451",
+            "Course": "Introduction to Operating Systems"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3461",
+            "Course": "Operating Systems Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 4,
+            "Code": "CS3481",
+            "Course": "Database Management Systems Laboratory"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "CS3591",
+            "Course": "Computer Networks"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "CS3501",
+            "Course": "Compiler Design"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "CB3491",
+            "Course": "Cryptography and Cyber Security"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "CS3551",
+            "Course": "Distributed Computing"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "CCS356",
+            "Course": "Object Oriented Software Engineering"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "CS3691",
+            "Course": "Embedded System and IOT"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Elective Management"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 7,
+            "Code": "CS3711",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "CSE",
+            "Semester": 8,
+            "Code": "CS3811",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "CIVIL": [
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "PH3201",
+            "Course": "Physics for Civil Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "BE3252",
+            "Course": "Basic Electrical , Electronics and Instrumentation Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "BE3272",
+            "Course": "Basic Electrical , Electronics and Instrumentation Engineering Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "MA3351",
+            "Course": "Transforms and Partial Differential Equations"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "ME3351",
+            "Course": "Engineering Mechanics"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3301",
+            "Course": "Fluid Mechanics"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3302",
+            "Course": "Construction Materials and Technology"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3303",
+            "Course": "Water Supply and Wastewater Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3351",
+            "Course": "Surveying and Levelling"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3361",
+            "Course": "Surveying and Levelling Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "CE3311",
+            "Course": "Water and Wastewater Analysis Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3401",
+            "Course": "Applied Hydraulics Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3402",
+            "Course": "Strength of Materials"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3403",
+            "Course": "Concrete Technology"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3404",
+            "Course": "Soil Mechanics"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3405",
+            "Course": "Highway and Railway Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3411",
+            "Course": "Hydraulic Engineering Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3412",
+            "Course": "Materials Testing Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 4,
+            "Code": "CE3413",
+            "Course": "Soil Mechanics Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "CE3501",
+            "Course": "Design of Reinforced Concrete Structural Elements"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "CE3502",
+            "Course": "Structural Analysis I"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "CE3503",
+            "Course": "Foundation Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "CE3511",
+            "Course": "Highway Engineering Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 5,
+            "Code": "CE3512",
+            "Course": "Survey Camp(2 weeks)"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "CE3601",
+            "Course": "Design of Steel Structural Elements"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "CE3602",
+            "Course": "Structural Analysis II"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "AG3601",
+            "Course": "Engineering Geology"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 6,
+            "Code": "CE3611",
+            "Course": "Building Drawing and Detailing Laboratory"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "CE3701",
+            "Course": "Estimation,Costing and Valuation Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "AI3404",
+            "Course": "Hydrology and Water Resources Engineering"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "GE3752",
+            "Course": "Total Quality Management"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "CIVIL",
+            "Semester": 8,
+            "Code": "CE3811",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "MECH": [
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "PH3251",
+            "Course": "Materials Science"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "BE3271",
+            "Course": "Basic Electrical and Electronics Engineering  Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "MA3351",
+            "Course": "Transforms and Partial Differential Equations"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3351",
+            "Course": "Engineering Mechanics"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3391",
+            "Course": "Engineering Thermodynamics"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "CE3391",
+            "Course": "Fluid Mechanics and Machinery"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3392",
+            "Course": "Engineering Materials and Metallurgy"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3393",
+            "Course": "Manufacturing Processes"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3381",
+            "Course": "Computer Aided Machine Drawing"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "ME3382",
+            "Course": "Manufacturing Technology Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "ME3491",
+            "Course": "Theory of Machines"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "ME3451",
+            "Course": "Thermal Engineering"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "ME3492",
+            "Course": "Hydraulics and Pneumatics"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "ME3493",
+            "Course": "Manufacturing Technology "
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "CE3491",
+            "Course": "Strength of Materials"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "CE3481",
+            "Course": "Strength of Materials and Fluid Machinery Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 4,
+            "Code": "ME3461",
+            "Course": "Thermal Engineering Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "ME3591",
+            "Course": "Design of Machine Elements"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "ME3592",
+            "Course": "Metrology and Measurements"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "ME3511",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 5,
+            "Code": "ME3581",
+            "Course": "Metrology and Dynamics Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "ME3691",
+            "Course": "Heat and Mass Transfer"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VII"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "ME3681",
+            "Course": "CAD/CAM Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 6,
+            "Code": "ME3682",
+            "Course": "Heat Transfer Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "ME3791",
+            "Course": "Mechatronics and IOT"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "ME3792",
+            "Course": "Computer Integrated Manufacturing"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "GE3792",
+            "Course": "Industrial Management"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "ME3781",
+            "Course": "Mechatronics and IOT Laboratory"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 7,
+            "Code": "ME3711",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "MECH",
+            "Semester": 8,
+            "Code": "ME3811",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "CYS": [
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": " CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": " GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": " GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course": "Physics for Information Science"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "CS3251",
+            "Course": "Programming in C"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "CS3271",
+            "Course": "Programming in C Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "MA3354",
+            "Course": "Discrete Mathematics"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CS3351",
+            "Course": "Digital Principles and Computer Organization"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CS3352",
+            "Course": "Foundations of Data Science"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CD3291",
+            "Course": "Datastructures and Algorithms"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CS3391",
+            "Course": "Object Oriented Programming"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CD3281",
+            "Course": "Data Structures and Algorithms Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CS3381",
+            "Course": "Object Oriented Programming Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "CS3361",
+            "Course": "Data Science Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CS3452",
+            "Course": "Theory of Computation"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CS3491",
+            "Course": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CB3401",
+            "Course": "Database Management Systems and Security"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CB3402",
+            "Course": "Cryptography and Cyber Security"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CB3491",
+            "Course": "Introduction to Operating Systems"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CB3411",
+            "Course": "Cryptography and Cyber Security Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 4,
+            "Code": "CB3412",
+            "Course": "Database Management Systems and Security Laboratory"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "CS3551",
+            "Course": "Distributed Computing"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "CB3591",
+            "Course": "Engineering Secure Software Systems"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "CS3691",
+            "Course": "Embedded Systems and IOT"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "CS3591",
+            "Course": "Computer Networks"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "CB3601",
+            "Course": "Cyber Forensics"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "CB3602",
+            "Course": "Network Security"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Elective Management"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 7,
+            "Code": "CB3711",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "CYS",
+            "Semester": 8,
+            "Code": "CB3811",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "DS": [
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": " HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": " CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "CS3251",
+            "Course": "Programming in C"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "CS3271",
+            "Course": "Programming in C Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "MA3354",
+            "Course": "Discrete Mathematics"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course": "Physics for Information Science"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": " GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Probability and Statistics"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Digital Principles and System Design"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Data Structures and Algorithms"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Object Oriented Programming"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Foundations of Data Science"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Data Science Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Object Oriented Programming Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Data Structures and Algorithms Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 3,
+            "Code": "",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Mathematical Foundations for Data Science"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Design and Analysis of Algorithms"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Database Management Systems"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Operating Systems"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Artificial Intelligence"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Database Management Systems Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 4,
+            "Code": "",
+            "Course": "Artificial Intelligence Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Machine Learning"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Data Exploration and Visualization"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Big Data Analytics"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Computer Networks"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Machine Learning Laboratory"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Reinforcement Learning"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Cryptography and Information Security"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code":"",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Elective Management"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "Data Science",
+            "Semester": 8,
+            "Code": "",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "AI&ML": [
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course": "Physics for Information Science"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "CS3251",
+            "Course": "Programming in C"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "CS3271",
+            "Course": "Programming in C Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "MA3354",
+            "Course": "Discrete Mathematics"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CS3351",
+            "Course": "Digital Principles and Computer Organization"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CS3352",
+            "Course": "Foundations of Data Science"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CD3291",
+            "Course": "Datastructures and Algorithms"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CS3391",
+            "Course": "Object Oriented Programming"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CD3281",
+            "Course": "Datastructures and Algorithms Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CS3381",
+            "Course": "Object Oriented Programming Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "CS3361",
+            "Course": "Data Science Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "CS3452",
+            "Course": "Theory of Computation"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AL3452",
+            "Course": "Operating Systems"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AD3391",
+            "Course": "Database Design and Management"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AL3451",
+            "Course": "Machine Learning"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AL3391",
+            "Course": "Artificial Intelligence "
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AL3411",
+            "Course": "Artificial Intelligence & Machine Learning Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 4,
+            "Code": "AD3381",
+            "Course": "Database Design and Management Laboratory"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "AL3501",
+            "Course": "Natural Language Processing"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "AL3502",
+            "Course": "Deep Learning for Vision"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "CB3491",
+            "Course": "Cryptography and Cyber Security"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "CS3551",
+            "Course": "Distributed Computing"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "CCS356",
+            "Course": "Object Oriented Software Engineering"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "CS3691",
+            "Course": "Embedded Systems and IOT"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Elective Management"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 7,
+            "Code": "AL3711",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "AI&ML",
+            "Semester": 8,
+            "Code": "AL3811",
+            "Course": "Project work/Internship"
+        }
+    ],
+    "AI&DS": [
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course ": " Professional English - I "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course ": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course ": "Engineering Physics  "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course ": " Engineering Chemistry "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course ": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course ": "Heritage of Tamils "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course ": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course ": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course ": " English Laboratory "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course ": " Professional English - II"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course ": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course ": "Physics for Information Science"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course ": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course ": "Engineering Graphics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "AD3251",
+            "Course ": "Data Structures Design"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course ": "Tamils and Technology"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course ": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "AD3271",
+            "Course ": "Data Structures Design Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course ": "Communication Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "MA3354",
+            "Course ": "Discrete Mathematics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "CS3351",
+            "Course ": "Digital Principles and Computer Organization"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AD3391",
+            "Course ": "Database Design and  Management "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AD3351",
+            "Course ": "Design and Analysis of Algorithms"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AD3301",
+            "Course ": "Data Exploration and Visualization"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AL3391",
+            "Course ": "Artificial Intelligence "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AD3381",
+            "Course ": "Database Design and  Management Laboratory "
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "AD3311",
+            "Course ": "Artificial Intelligence Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course ": "Professional Development"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "MA3391",
+            "Course ": "Probability and Statistics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "AL3452",
+            "Course ": "Operating Systems"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "AL3451",
+            "Course ": "Machine Learning"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "AL3491",
+            "Course ": "Fundamentals of Data Sciences and Analytics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "CS3591",
+            "Course ": "Computer Networks"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course ": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "AD3411",
+            "Course ": "Data Science and Analytics Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 4,
+            "Code": "AD3461",
+            "Course ": "Machine Learning Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "AD3501",
+            "Course ": "Deep Learning"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "CW3551",
+            "Course ": "Data and Information Security"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "CS3551",
+            "Course ": "Distributed Computing"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "CCS334",
+            "Course ": "Big Data Analytics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective I"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective II"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "AD3511",
+            "Course ": "Deep Learning Laboratory"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 5,
+            "Code": "AD3512",
+            "Course ": "Summer Internship"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code": "CS3691",
+            "Course ": "Embedded Systems and IOT"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Open Elective I"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective III"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective IV"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective V"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 6,
+            "Code":"",
+            "Course ": "Professional Elective VI"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course ": "Human Values and Ethics"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Elective Management"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective II"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective III"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective IV"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Summer Internship"
+        },
+        {
+            "Department": "AI&DS",
+            "Semester": 8,
+            "Code": "AD3811",
+            "Course ": "Project work/Internship"
+        }
+    ],
+    "EEE": [
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course ": " Professional English - I "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course ": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course ": "Engineering Physics  "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course ": " Engineering Chemistry "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course ": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course ": "Heritage of Tamils "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course ": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course ": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course ": " English Laboratory "
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course ": " Professional English - II"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course ": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "PH3202",
+            "Course ": "Physics for Electrical Engineering"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "BE3255",
+            "Course ": "Basic Civil and Mechanical Engineering"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course ": "Engineering Graphics"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "EE3251",
+            "Course ": "Electric Circuit Analysis"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course ": "Tamils and Technology"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course ": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "EE3271",
+            "Course ": "Electric Circuit Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course ": "Communication Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "MA3303",
+            "Course ": "Probability and Complex Functions"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EE3301",
+            "Course ": "Electromagnetic Fields"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EE3302",
+            "Course ": "Digital Logic Circuits"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EC3301",
+            "Course ": "Electron Devices and Circuits"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EE3303",
+            "Course ": "Electrical Machines -I"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "CS3353",
+            "Course ": "C Programming and Data Structures"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EC3311",
+            "Course ": "Electron Devices and Circuits Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "EE3311",
+            "Course ": "Electrical Machines Laboratory -I"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "CS3362",
+            "Course ": "C Programming and Data Structures Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course ": "Professional Development"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course ": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3401",
+            "Course ": "Transmission and Distribution"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3402",
+            "Course ": "Linear Integrated Circuits"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3403",
+            "Course ": "Measurements and Instruments"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3404",
+            "Course ": "Microprocessor and Microcontroller"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3405",
+            "Course ": "Electrical Machines -II"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3411",
+            "Course ": "Electrical Machines Laboratory -II"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3412",
+            "Course ": "Linear and Digital Circuits Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 4,
+            "Code": "EE3413",
+            "Course ": "Microprocessor and Microcontroller Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "EE3501",
+            "Course ": "Power System Analysis"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "EE3591",
+            "Course ": "Power Electronics"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "EE3503",
+            "Course ": "Control Systems"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective I"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective II"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective III"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "EE3511",
+            "Course ": "Power Electronics Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 5,
+            "Code": "EE3512",
+            "Course ": "Control and Instrumentation Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "EE3501",
+            "Course ": "Protection and Switchgear"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "EE3602",
+            "Course ": "Power System Operation and Control"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Open Elective I"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective IV"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective V"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective VI"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 6,
+            "Code": "EE3611",
+            "Course ": "Power System Laboratory"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "EE3701",
+            "Course ": "High Voltage Engineering"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course ": "Human Values and Ethics"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Elective Management"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective II"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective III"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective IV"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Professional Elective VII"
+        },
+        {
+            "Department": "EEE",
+            "Semester": 8,
+            "Code": "EE3811",
+            "Course ": "Project work/Internship"
+        }
+    ],
+    "ECE": [
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course ": " Professional English - I "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course ": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course ": "Engineering Physics  "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course ": " Engineering Chemistry "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course ": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course ": "Heritage of Tamils "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course ": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course ": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course ": " English Laboratory "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course ": " Professional English - II"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course ": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "PH3254",
+            "Course ": "Physics for Electronics Engineering"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "BE3254",
+            "Course ": "Electrical  and Instrumentation Engineering"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course ": "Engineering Graphics"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "EC3251",
+            "Course ": "Circuit Analysis"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course ": "Tamils and Technology"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course ": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "EC3271",
+            "Course ": " Circuits Analysis Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course ": "Communication Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "MA3355",
+            "Course ": "Random Processes and Linear Algebra"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "CS3353",
+            "Course ": "C Programming and Data Structures"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "EC3354",
+            "Course ": "Signals and Systems"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "EC3353",
+            "Course ": "Electronic Devices and Circuits "
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "EC3351",
+            "Course ": "Control Systems"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "EC3352",
+            "Course ": "Digital Systems Design"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "EC3361",
+            "Course ": "Electronic Devices and Circuits Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "CS3362",
+            "Course ": "C Programming and Data Structures Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course ": "Professional Development"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3452",
+            "Course ": "Electromagnetic Fields"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3401",
+            "Course ": "Networks and Security"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3451",
+            "Course ": "Linear Integrated Circuits"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3492",
+            "Course ": "Digital Signal Processing"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3491",
+            "Course ": "Communication Systems"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course ": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3461",
+            "Course ": "Communication Systems Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 4,
+            "Code": "EC3462",
+            "Course ": "Linear Integrated Circuits Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "EC3501",
+            "Course ": "Wireless Communication"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "EC3552",
+            "Course ": "VLSI and Chip Design"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "EC3551",
+            "Course ": "Transmission lines and RF Systems"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective I"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective II"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "",
+            "Course ": "Professional Elective III"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 5,
+            "Code": "EC3561",
+            "Course ": "VLSI Laboratory"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "ET3491",
+            "Course ": "Embedded Systems and IOT Design"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "CS3491",
+            "Course ": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Open Elective I"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective IV"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective V"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 6,
+            "Code": "",
+            "Course ": "Professional Elective VI"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course ": "Human Values and Ethics"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Elective Management"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective II"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective III"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "",
+            "Course ": "Open Elective IV"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 7,
+            "Code": "EC3711",
+            "Course ": "Summer Internship"
+        },
+        {
+            "Department": "ECE",
+            "Semester": 8,
+            "Code": "EC3811",
+            "Course ": "Project work/Internship"
+        }
+    ],
+    "IT": [
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "HS3152 ",
+            "Course": " Professional English - I "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "MA3151 ",
+            "Course": " Matrices  and  Calculus "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "PH3151 ",
+            "Course": "Engineering Physics  "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "CY3151 ",
+            "Course": " Engineering Chemistry "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "GE3151 ",
+            "Course": "Problem Solving and Python Programming "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "GE3152 ",
+            "Course": "Heritage of Tamils "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "GE3171 ",
+            "Course": "Problem Solving and Python Programming Laboratory "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "BS3171 ",
+            "Course": " Physics and Chemistry Laboratory "
+        },
+        {
+            "Department": "IT",
+            "Semester": 1,
+            "Code": "GE3172",
+            "Course": " English Laboratory "
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "HS3252",
+            "Course": " Professional English - II"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "MA3251",
+            "Course": "Statistics and Numerical Methods"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "PH3256",
+            "Course": "Physics for Information Science"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "BE3251",
+            "Course": "Basic Electrical and Electronics Engineering"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "GE3251",
+            "Course": "Engineering Graphics"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "CS3251",
+            "Course": "Programming in C"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "GE3252",
+            "Course": "Tamils and Technology"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "GE3271",
+            "Course": "Engineering Practices Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "CS3271",
+            "Course": "Programming in C Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 2,
+            "Code": "GE3272",
+            "Course": "Communication Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "MA3354",
+            "Course": "Discrete Mathematics"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CS3351",
+            "Course": "Digital Principles and Computer Organization"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CS3352",
+            "Course": "Foundations of Data Science"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CD3291",
+            "Course": "Datastructures and Algorithms"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CS3391",
+            "Course": "Object Oriented Programming"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CD3281",
+            "Course": "Datastructures and Algorithms Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CS3381",
+            "Course": "Object Oriented Programming Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "CS3361",
+            "Course": "Data Science Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 3,
+            "Code": "GE3361",
+            "Course": "Professional Development"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3452",
+            "Course": "Theory of Computation"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3491",
+            "Course": "Artificial Intelligence and Machine Learning"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3492",
+            "Course": "Database Management Systems"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "IT3401",
+            "Course": "Web Essentials"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3451",
+            "Course": "Introduction to Operating Systems"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "GE3451",
+            "Course": "Environmental Sciences and Sustainability"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3461",
+            "Course": "Operating Systems Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 4,
+            "Code": "CS3481",
+            "Course": "Database Management Systems Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "CS3591",
+            "Course": "Computer Networks"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "IT3501",
+            "Course": "Full Stack Web Development"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "CS3551",
+            "Course": "Distributed Computing"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "CS3691",
+            "Course": "Embedded Systems and IOT"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective I"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "",
+            "Course": "Professional Elective II"
+        },
+        {
+            "Department": "IT",
+            "Semester": 5,
+            "Code": "IT3511",
+            "Course": "Full Stack Web Development Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "CCS356",
+            "Course": "Object Oriented Software Engineering"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Open Elective I"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective III"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective IV"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective V"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "",
+            "Course": "Professional Elective VI"
+        },
+        {
+            "Department": "IT",
+            "Semester": 6,
+            "Code": "IT3681",
+            "Course": "Mobile Applications Development Laboratory"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "GE3791",
+            "Course": "Human Values and Ethics"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Elective Management"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective II"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective III"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "",
+            "Course": "Open Elective IV"
+        },
+        {
+            "Department": "IT",
+            "Semester": 7,
+            "Code": "IT3711",
+            "Course": "Summer Internship"
+        },
+        {
+            "Department": "IT",
+            "Semester": 8,
+            "Code": "IT3811",
+            "Course": "Project work/Internship"
+        }
+    ]
+}
