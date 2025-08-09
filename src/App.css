@@ -73,7 +73,7 @@ textarea, input[type="text"] {
   border-radius: 4px;
 }
 
-/* 🔐 FORGOT PASSWORD / LOGIN / SIGNUP STYLING */
+/*  FORGOT PASSWORD / LOGIN / SIGNUP STYLING */
 
 .auth-container {
   background: linear-gradient(to right, #764ba2, #667eea);

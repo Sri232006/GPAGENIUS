@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { auth, db } from './firebase';
 import { doc, getDoc, updateDoc } from 'firebase/firestore';
-import './GpaCalculator.css'; 
+import './GpaCalculator.css';
 
 const MyCgpaCalculator = () => {
   const [semesters, setSemesters] = useState([]);
@@ -14,57 +14,70 @@ const MyCgpaCalculator = () => {
 
       const userRef = doc(db, "users", uid);
       const docSnap = await getDoc(userRef);
-      if (docSnap.exists()) {
-        const data = docSnap.data();
-        const gpaHistory = data.gpaHistory || [];
+      if (!docSnap.exists()) return;
 
-        const defaultCredits = 20; 
+      const data = docSnap.data();
+      const gpaHistory = data.gpaHistory || [];
 
-        const semestersWithCredits = gpaHistory.map((entry) => ({
-          gpa: parseFloat(entry.gpa),
-          credits: entry.totalCredits || defaultCredits,
-          date: entry.date,
-        }));
+      const defaultCredits = 20;
 
-        setSemesters(semestersWithCredits);
+      const semestersWithCredits = gpaHistory.map((entry) => ({
+        gpa: parseFloat(entry.gpa) || 0,
+        credits: entry.totalCredits || defaultCredits,
+        date: entry.date ? new Date(entry.date) : null, 
+      }));
 
-        let totalWeightedGpa = 0;
-        let totalCredits = 0;
+      setSemesters(semestersWithCredits);
 
-        semestersWithCredits.forEach((sem) => {
-          totalWeightedGpa += sem.gpa * sem.credits;
-          totalCredits += sem.credits;
-        });
+      let totalWeightedGpa = 0;
+      let totalCredits = 0;
 
-        const calculatedCgpa = totalCredits > 0 ? (totalWeightedGpa / totalCredits).toFixed(2) : 0;
-        setCgpa(calculatedCgpa);
+      semestersWithCredits.forEach((sem) => {
+        totalWeightedGpa += sem.gpa * sem.credits;
+        totalCredits += sem.credits;
+      });
 
-        // Save CGPA to Firebase
-        await updateDoc(userRef, { cgpa: calculatedCgpa });
-      }
+      const calculatedCgpa =
+        totalCredits > 0 ? (totalWeightedGpa / totalCredits).toFixed(2) : "0.00";
+      setCgpa(calculatedCgpa);
+
+      // Save CGPA to Firebase
+      await updateDoc(userRef, { cgpa: calculatedCgpa });
     };
 
     fetchData();
   }, []);
 
   return (
-    <div className="calculator-container">
-      <h2 className="calculator-title">🎓 CGPA Calculator</h2>
+    <div className="cgpa-container">
+      <div className="cgpa-header">
+        <h1>📊 My CGPA History</h1>
+      </div>
 
       {semesters.length > 0 ? (
-        <ul style={{ listStyle: 'none', padding: 0 }}>
+        <ul className="cgpa-history">
           {semesters.map((sem, index) => (
-            <li key={index} style={{ marginBottom: '10px', textAlign: 'center' }}>
-              📅 <strong>{new Date(sem.date).toLocaleDateString()}</strong> – GPA: {sem.gpa}, Credits: {sem.credits}
+            <li key={index} className="cgpa-history-item">
+              📅 <strong>
+                {sem.date
+                  ? sem.date.toLocaleDateString()
+                  : "Date Not Available"}
+              </strong>
+              {" — "}GPA: {sem.gpa}, Credits: {sem.credits}
             </li>
           ))}
         </ul>
       ) : (
-        <p style={{ textAlign: 'center' }}>No GPA data found.</p>
+        <div className="cgpa-empty">
+          <p>No GPA data found.</p>
+        </div>
       )}
 
       {cgpa !== null && (
-        <h3 style={{ textAlign: 'center', marginTop: '20px' }}>⭐ Your CGPA: {cgpa}</h3>
+        <div className="cgpa-result">
+          <h3>⭐ Your CGPA</h3>
+          <p>{cgpa}</p>
+        </div>
       )}
     </div>
   );

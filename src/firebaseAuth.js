@@ -1,4 +1,4 @@
-// src/firebaseAuth.js
+// firebaseAuth.js
 import { initializeApp } from "firebase/app";
 import { getAuth, signInWithEmailAndPassword } from "firebase/auth";
 
@@ -14,7 +14,7 @@ const firebaseConfig = {
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
 
-// 🔐 Auto login function using test credentials
+// Auto login function using test credentials
 export const loginUser = () => {
   signInWithEmailAndPassword(auth, "test@gmail.com", "123456")
     .then((userCredential) => {
